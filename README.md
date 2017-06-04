@@ -18,7 +18,7 @@
 	     e o torna oficial com publicação em Diário Oficial do Estado. 
 	     
 	 Obs:    
-	 >> A Classe abaixo esta fazendo o uso do padrão Abstract Factory, através da 
+	 >> A Classe CampeonatoEstadual esta fazendo o uso do padrão Abstract Factory, através da 
 	    Classe CampeonatoEstadualFactory, com o objetivo de torna-la reutilizável 
 	    para todas as federações e secretarias que realizarem campeonatos.
 	         
